@@ -244,7 +244,7 @@ button {
 
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
-    color: #f74c67;
+    color: #008056;
 }
 
 .login_menu {
@@ -268,7 +268,7 @@ button {
 }
 
 .login_menu li a:hover {
-    color: #f74c67;
+    color: #008056;
 }
 
 
@@ -280,7 +280,7 @@ button {
 .banner_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
+    background-image: url(../images/banner-bg2.png);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -435,7 +435,7 @@ button {
 
 .read_bt_1 a:hover {
     color: #ffffff;
-    background-color: #f2515e;
+    background-color: #008056;
 }
 
 .image_1 {
@@ -529,7 +529,7 @@ button {
 
 .image_main:hover {
     transform: scale(1.1);
-    background-color: #f75261;
+    background-color: #008056;
     border: 0px;
 }
 
@@ -554,8 +554,8 @@ button {
     margin: 0 10px;
     width: 45px;
     height: 45px;
-    color: #f0390f;
-    border: 2px solid #f0390f;
+    color: #008056;
+    border: 2px solid #008056;
 }
 
 .owl-carousel .owl-nav button.owl-next,
@@ -607,7 +607,7 @@ button {
 .client_section {
     width: 100%;
     float: left;
-    background: linear-gradient(90deg, rgba(247, 80, 99, 1) 0%, rgba(247, 114, 68, 1) 100%);
+    background: linear-gradient(90deg, rgba(0, 128, 86, 1) 0%, rgb(97, 203, 168) 100%);
     padding-bottom: 110px;
 }
 
@@ -672,7 +672,7 @@ button {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #f76f46;
+    color: #008056;
     margin: 0px;
 }
 
@@ -795,7 +795,7 @@ button {
 
 .readmore_bt a:hover {
     color: #ffffff;
-    background-color: #f2515e;
+    background-color: #008056;
 }
 
 
@@ -891,7 +891,7 @@ textarea#comment::placeholder {
 .send_bt a {
     width: 100%;
     float: left;
-    background-color: #f2515e;
+    background-color: #008056;
     color: #fefeff;
     text-align: center;
     padding: 10px 0px;
@@ -929,7 +929,7 @@ textarea#comment::placeholder {
 
 .location_icon li {
     float: left;
-    background-color: #f2515e;
+    background-color: #008056;
     border-radius: 100%;
     width: 60px;
     height: 60px;
@@ -942,7 +942,7 @@ textarea#comment::placeholder {
 }
 
 .location_icon li a:hover {
-    background-color: #f77441;
+    background-color: #008056;
 }
 
 .mail_box {
@@ -976,7 +976,7 @@ textarea#comment::placeholder {
     font-size: 18px;
     color: #fdfdfd;
     text-align: center;
-    background-color: #f2515e;
+    background-color: #008056;
     padding: 11px 10px;
     text-transform: uppercase;
     border-radius: 40px;
@@ -1053,12 +1053,14 @@ textarea#comment::placeholder {
 }
 
 .copyright_text a:hover {
-    color: #f2515e;
+    color: #008056;
 }
-.margin_top90{
+
+.margin_top90 {
     margin-top: 90px;
 }
-.padding_top0{
+
+.padding_top0 {
     padding-top: 0px;
 }
 
