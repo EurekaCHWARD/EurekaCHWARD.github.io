@@ -602,6 +602,39 @@ button {
 /* product section end */
 
 
+/* service section start */
+
+.service_section {
+    width: 100%;
+    float: left;
+    height: auto;
+    padding-bottom: 90px;
+}
+
+.service_taital {
+    width: 100%;
+    float: left;
+    font-size: 40px;
+    color: #363636;
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: bold;
+}
+
+.service_text {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #363636;
+    margin: 0px;
+    text-align: left;
+    padding-bottom: 50px;
+}
+
+
+/* service section end */
+
+
 /* client section start */
 
 .client_section {
@@ -990,7 +1023,7 @@ textarea#comment::placeholder {
 .social_icon {
     width: 100%;
     float: right;
-    padding-top: 20px;
+    padding-top: 65px;
 }
 
 .social_icon ul {
